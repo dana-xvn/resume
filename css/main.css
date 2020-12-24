@@ -544,7 +544,7 @@
 }
 
 .skillCard-squareBootstrap::before {
-  background-image: url("../images/skill_icon/bootstrap-icon.png");
+  background-image: url("../images/skill_icon/vue-icon.png");
 }
 
 .skillCard-title {
@@ -747,14 +747,14 @@
 
 @media (max-width: 768px) {
   .workItems-title {
-    margin-top: -56px;
+    margin-top: 0px;
     margin-bottom: 0px;
     font-size: 32px;
   }
 }
 
 .workItems-intro {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 32px;
 }
 
